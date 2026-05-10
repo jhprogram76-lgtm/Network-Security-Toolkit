@@ -28,4 +28,4 @@ Este toolkit ha sido desarrollado exclusivamente para **fines educativos y audit
 
 ---
 📫 **Contacto Profesional:**
-jordi h https://www.linkedin.com/in/jordi-hernansanch-baab55402
+jordi h - https://www.linkedin.com/in/jordi-hernansanch-baab55402
